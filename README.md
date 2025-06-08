@@ -1,0 +1,1 @@
+# painel-alexa-ipad1
